@@ -52,7 +52,7 @@ class Queue:
     return self.internalArray.__str__()
 
 
-myQueue = Queue(5) #Creates the queue with the capacity of 5 (an array of 5 containing nothing)
+myQueue = Queue(6) #Creates the queue with the capacity of 6 (an array of 6 containing nothing)
 print(myQueue) # displays the empty queue
 
 #adds  items to the queue 
