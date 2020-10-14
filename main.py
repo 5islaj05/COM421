@@ -5,6 +5,6 @@ print(" \n \n running Week 2 \n\n")
 import week2.stack
 import week2.linkedList
 print(" \n \n running Week 3 \n\n")
-import week3.main as w3
+import week3.queue as w3
 
 
