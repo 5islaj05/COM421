@@ -1,2 +1,2 @@
 language = "python3"
-run = "echo running program"
+run = "python main.py"
